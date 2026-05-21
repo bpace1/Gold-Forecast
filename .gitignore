@@ -4,5 +4,6 @@
 *.pdf
 *.pyc
 *.txt
+*__pycache__
+*.ipynb
 
-generar_informe.py
