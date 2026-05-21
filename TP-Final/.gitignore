@@ -1,0 +1,8 @@
+.env
+.venv
+
+*.pdf
+*.pyc
+*.txt
+
+generar_informe.py
